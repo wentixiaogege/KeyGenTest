@@ -2,6 +2,7 @@
 requenst to 
 http://127.0.0.1:8080/AuthInterface/v2/coorauth/1
 result is:
+```json
 [
    {
       "id": 2,
@@ -128,9 +129,11 @@ result is:
       ]
    }
 ]
+```
+
 
 request is :http://127.0.0.1:8080/AuthInterface/v2/smartmeterauth
-
+```json
 [
    {
       "id": 1,
@@ -215,4 +218,6 @@ request is :http://127.0.0.1:8080/AuthInterface/v2/smartmeterauth
       ]
    }
 ]
+```
+
 
