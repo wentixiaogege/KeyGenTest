@@ -11,8 +11,7 @@ import org.apache.commons.lang3.StringUtils;
 import edu.itu.html.JSONResult;
 import edu.itu.localjack.common.ClientLogic;
 import edu.itu.localjack.common.JsonUtil;
-import edu.itu.localjack.common.ServerType;
-import edu.itu.util.InterfaceUtil;
+
 
 public class CoorAuthApiLogic extends ClientLogic<String,JsonArray> {
 

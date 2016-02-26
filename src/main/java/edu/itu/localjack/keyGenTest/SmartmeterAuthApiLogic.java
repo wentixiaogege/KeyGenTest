@@ -12,10 +12,6 @@ import org.apache.commons.lang3.StringUtils;
 import edu.itu.html.JSONResult;
 import edu.itu.localjack.common.ClientLogic;
 import edu.itu.localjack.common.JsonUtil;
-import edu.itu.util.InterfaceUtil;
-import edu.itu.v2.bean.CoordAuthApi;
-import edu.itu.v2.bean.SmartmeterAuthApi;
-
 
 
 public class SmartmeterAuthApiLogic extends ClientLogic<String,JsonArray> {
